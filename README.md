@@ -9,7 +9,7 @@ Create a new database titled GoldmineLMS in SQL Server 2008 Express and execute 
 Change web.config file as per your sql server database name and credentials.
 
 Please note that traditional session is used for securing secured pages.
-Bbut the creation of user and editing user info uses SimpleMembership.
+But the creation of user and editing user info uses SimpleMembership.
 We are working on implementing Microsoft Identity framework(SimpleMembership) for login,logoff and page security. 
 
 
